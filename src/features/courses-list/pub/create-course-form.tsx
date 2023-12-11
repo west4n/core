@@ -75,7 +75,7 @@ export function CreateCourseForm({
 						</FormItem>
 					)}
 				/>
-				<Button className='mt-8' type='submit' disabled={isCreateTransition}>
+				<Button className='mt-7' type='submit' disabled={isCreateTransition}>
 					Добавить
 				</Button>
 			</form>
